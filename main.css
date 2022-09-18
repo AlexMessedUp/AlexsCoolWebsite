@@ -11,6 +11,8 @@ body {
     text-align: center;
     margin: auto;
 
+    width: 800px;
+
 }
 
 .title {
@@ -71,7 +73,7 @@ body {
 
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 800px;
 
     background-color: darkorange;
     border: black 1px solid;
