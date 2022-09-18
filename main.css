@@ -118,7 +118,7 @@ body {
 
     background: url("assets/metalbg.jpg");
     color:  hsl(0, 0%, 100%);
-    font-family: "Papyrus", Arial;
+    font-family: Papyrus, Arial;
     font-size: 28px;
     padding: 0;
     text-align: center;
