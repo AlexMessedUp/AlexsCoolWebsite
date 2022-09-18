@@ -11,7 +11,7 @@ body {
     text-align: center;
     margin: auto;
 
-    width: 800px;
+    width: 780px;
 
 }
 
@@ -73,7 +73,7 @@ body {
 
     position: fixed;
     bottom: 0;
-    width: 800px;
+    width: 780px;
 
     background-color: darkorange;
     border: black 1px solid;
