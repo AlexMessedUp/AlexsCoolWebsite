@@ -31,7 +31,6 @@ body {
 .content {
     
     color:rgb(0, 0, 0);
-    font-weight: bold;
     font-size: large;
 
 }
@@ -60,10 +59,11 @@ body {
 .divright {
 
     background-color: darkorange;
-    width: 49%;
+    margin: 2.5%;
+    width: 44%;
     float: right;
     border: black 1px solid;
-    height: 66vh;
+    height:fit-content;
 
 }
 
@@ -96,9 +96,19 @@ body {
 
 .comments{
 
-    font-size: small;
-    text-align: left;
+    font-size: large;
     margin-left: 20px;
+
+}
+
+.comment {
+
+    font-size: large;
+    text-align: left;
+    background-color: beige;
+    border: black 1px solid;
+    width: 300px;
+    margin: auto;
 
 }
 
