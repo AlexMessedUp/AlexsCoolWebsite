@@ -74,3 +74,15 @@ body {
     margin-top: 20px;
 
 }
+
+.gromit {
+
+    background: url("assets/gromit.gif");
+    color:  hsl(41, 85%, 82%);
+    font-family: "Comic Sans MS", Arial;
+    font-size: 28px;
+    padding: 0;
+    text-align: center;
+    margin-top: 200px;
+
+}
