@@ -36,6 +36,37 @@ body {
 
 }
 
+.header {
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+    background-color: darkorange;
+    border: black 1px solid;
+
+}
+
+.divleft {
+
+    width: 45%;
+    float: left;
+    background-image: url("assets/bg.jpg");
+    border: black 1px solid;
+    margin: 2.5%;
+
+}
+
+.divright {
+
+    background-color: darkorange;
+    width: 49%;
+    float: right;
+    border: black 1px solid;
+    height: 65vh;
+
+}
+
 .footer {
 
     position: fixed;
@@ -60,6 +91,14 @@ body {
     text-align: center;
     border: black 1px solid;
     background: darkorange;
+
+}
+
+.comments{
+
+    font-size: small;
+    text-align: left;
+    margin-left: 20px;
 
 }
 
@@ -96,17 +135,6 @@ body {
     padding: 0;
     text-align: center;
     margin-top: 200px;
-
-}
-
-.header {
-
-    position: fixed;
-    top: 0;
-    width: 100%;
-
-    background-color: darkorange;
-    border: black 1px solid;
 
 }
 
