@@ -8,7 +8,7 @@ body {
     font-size: 16px;
 
     margin: auto;
-    padding: auto;
+    padding: 0;
     text-align: center;
     width: 780px;
 
@@ -25,7 +25,9 @@ body {
     color:  hsl(0, 0%, 0%);
     background-color: darkorange;
     font-size: 16px;
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 4px solid;
+    border-left: 0;
+    border-right: 0;
     border-style: outset;
 
 }
@@ -44,7 +46,9 @@ body {
     width: 780px;
 
     background-color: darkorange;
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 4px solid;
+    border-left: 0;
+    border-right: 0;
     border-style: outset;
 
 }
@@ -56,7 +60,7 @@ body {
     float: left;
     margin: 2.5%;
     
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 7px solid;
     border-style: inset;
 
 }
@@ -70,7 +74,7 @@ body {
     height:fit-content;
     border-style: inset;
 
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 7px solid;
     border-style: inset;
 
 }
@@ -82,7 +86,9 @@ body {
     width: 780px;
 
     background-color: darkorange;
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 4px solid;
+    border-left: 0;
+    border-right: 0;
     border-style: outset;
 
 }
@@ -93,7 +99,7 @@ body {
     margin-right: auto;
     text-align: center;
     background: darkorange;
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 4px solid;
     border-style: outset;
 
 }
@@ -171,7 +177,9 @@ body {
     top: 0;
     width: 780px;
     background-color: darkorange;
-    border: rgba(201, 201, 201, 0.515) 7.5px solid;
+    border: rgba(201, 201, 201, 0.515) 4px solid;
+    border-left: 0;
+    border-right: 0;
     border-style: outset;
 
 }
