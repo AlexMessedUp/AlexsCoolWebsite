@@ -43,7 +43,7 @@ body {
 
     position: fixed;
     top: 0;
-    width: 780px;
+    width: 1024px;
 
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
@@ -83,7 +83,7 @@ body {
 
     position: fixed;
     bottom: 0;
-    width: 780px;
+    width: 1024px;
 
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
@@ -175,7 +175,7 @@ body {
 
     position: absolute;
     top: 0;
-    width: 780px;
+    width: 1024px;
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
     border-left: 0;
