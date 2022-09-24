@@ -7,10 +7,10 @@ body {
     font-family: 'Comic Sans MS', 'Comic Sans', Arial;
     font-size: 16px;
 
-    margin: 0;
+    margin: auto;
     padding: auto;
     text-align: center; 
-    width: 1024px;
+    width: 780px;
 
 }
 
@@ -43,7 +43,7 @@ body {
 
     position: fixed;
     top: 0;
-    width: 1024px;
+    width: 780px;
 
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
@@ -83,7 +83,7 @@ body {
 
     position: fixed;
     bottom: 0;
-    width: 1024px;
+    width: 780px;
 
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
@@ -175,7 +175,7 @@ body {
 
     position: absolute;
     top: 0;
-    width: 1024px;
+    width: 780px;
     background-color: darkorange;
     border: rgba(201, 201, 201, 0.515) 4px solid;
     border-left: 0;
